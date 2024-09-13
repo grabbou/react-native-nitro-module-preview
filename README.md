@@ -1,9 +1,4 @@
-Native Module Playground
+Native Module Test
 ====
 
-This repository previews available native module systems:
-- Nitro
-- Turbo Modules
-- Expo Modules
-
-This is WIP. We will see where we end up with this after the weekend!
+Just having fun with Nitro Modules, so I guess you can take this as a starting point until I break everything 🤣
