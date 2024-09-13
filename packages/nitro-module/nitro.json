@@ -1,0 +1,15 @@
+{
+  "cxxNamespace": ["grabbou"],
+  "ios": {
+    "iosModulename": "NitroModule"
+  },
+  "android": {
+    "androidNamespace": ["grabbou"],
+    "androidCxxLibName": "NitroModule"
+  },
+  "autolinking": {
+    "StyleSheet": {
+      "swift": "HybridStyleSheet"
+    }
+  }
+}

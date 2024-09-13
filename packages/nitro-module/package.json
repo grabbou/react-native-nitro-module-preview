@@ -1,0 +1,15 @@
+{
+  "name": "@react-native-module/nitro",
+  "version": "0.0.1",
+  "description": "Implemented with Nitro",
+  "main": "src/index.ts",
+  "scripts": {
+    "codegen": "npx nitro-codegen"
+  }, 
+  "homepage": "https://github.com/grabbou/react-native-module",
+  "license": "MIT",
+  "author": "Mike Grabowski <grabbou@gmail.com>",
+  "peerDependencies": {
+    "react-native-nitro-modules": "^0.8.0"
+  }
+}
